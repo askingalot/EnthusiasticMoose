@@ -7,7 +7,6 @@ namespace EnthusiasticMoose
         static void Main(string[] args)
         {
             MooseSays("H I, I'M  E N T H U S I A S T I C !");
-
             EnthusiasticQuestion();
             LoveCSharpQuestion();
             SecretQuestion();
